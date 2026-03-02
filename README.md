@@ -4,20 +4,15 @@ Este projeto é um simulador de um sistema de automação residencial que integr
 
 ## 🚀 Funcionalidades
 
-* 
 **Controle de Intensidade:** Controle gradual do brilho da lâmpada (0% a 100%) através de um potenciômetro virtual.
 
-
-* 
 **Acionamento de Relé:** Ativação automática de um circuito secundário (Relé) quando a intensidade atinge ou ultrapassa **50%**.
 
-
-* 
 **Métricas em Tempo Real:** Cálculo do consumo estimado de energia em Watts (W) com base no brilho e estado do relé.
 
 
 * **Gráfico de Histórico:** Monitoramento visual das oscilações de intensidade ao longo do tempo através de um gráfico de linha dinâmico.
-* 
+
 **Efeitos Visuais (Bloom):** Simulação realista de claridade com gradientes e sombras dinâmicas que reagem à intensidade.
 
 
@@ -27,34 +22,22 @@ Este projeto é um simulador de um sistema de automação residencial que integr
 
 ### Frontend
 
-* 
 **React** (Biblioteca principal) 
 
-
-* 
 **TypeScript** (Tipagem estática) 
 
 
 * **Vite** (Ferramenta de build rápida)
 * **Recharts** (Gráficos em tempo real)
-* 
 **Lucide-React** (Ícones modernos) 
 
-
-* 
 **CSS3** (Design Glassmorphism e Transições Suaves) 
-
-
 
 ### Backend
 
-* 
 **Python** 
 
-
-* 
 **Flask** (Servidor Web/API) 
-
 
 * **Flask-CORS** (Permissão de comunicação entre domínios)
 
